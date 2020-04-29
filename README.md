@@ -6,4 +6,6 @@
 
 **Educational Coaches** - are your go-to, non-technical support. Flatiron School offers the opportunity to partner with an Educational Coach to check-in and help you stay accountable to your goals, anchor to your motivation in learning to code, and make steady forward progress at a pace that is right for you.  Educational Coaches act as community leads for the cohort and partner with students to offer occasional 1:1 check-ins from the start of the program until they become eligible for Career Coaching towards the end of the program. 
 
-**Career Coaches** - are waiting for you toward the end of your educational journey to provide individualized support for all things job related. You can learn more about the type of support Career Coaches provide in the Career Services section above.
+**Career Coaches** - are waiting for you toward the end of your educational journey to provide individualized support for all things job related. You can learn more about the type of support Career Coaches provide in the Career Services section.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/first-mile-your-support-team'>Your Support Team</a> on Learn.co and start learning to code for free.</p>
