@@ -1,6 +1,6 @@
 # Your Support Team
 
-**Cohort Lead** - your instructor, who you will meet with for technical support. Cohort Leads provide support and mentorship throughout the entire program through 1:1 sessions and pod meetings up to once per week as well as occasional live lectures.
+**Cohort Lead** - your instructor, who you will meet with for technical support. Cohort Leads provide support and mentorship throughout the entire program through 1:1 sessions up to once per week as well as occasional live lectures.
 
 **Technical Coaches (“TCs”)** - are a team of Flatiron graduates who help students to get unstuck, namely through helping with debugging via real-time support. They provide guidance over chat in our Ask A Question feature, as well as screen sharing, when helpful. During your interactions with Technical Coaches, they may ask questions to help you think and talk through your code until you have that aha moment. Their function is not to provide answers - but rather, to help you discover the answer through a two-sided interaction.
 
